@@ -1,0 +1,42 @@
+#{margin:0;padding:0;box-sizing:border-box;}
+ul li{list-style:none;
+display:inline;
+padding:20px;}
+
+.syed{color:#fff;
+font-weight:bold;}
+
+#ii{padding:8px;}
+
+#names:hover{color:red;
+text-decoration:underline;}
+
+#uls{text-transform:capitalize;font-weight:bold;
+font-size:20px}
+
+#uls1:hover{text-decoration:underline;
+text-decoration-color:red;color:greenyellow;font-size:25px;cursor:pointer;}
+
+button{width:180px;border-radius:20px;text-decoration:underline;
+text-decoration-style:double;text-decoration-color:red}
+
+.sm{box-shadow:2px 5px 3px 2px green}
+
+.sm:hover{background-color:red;
+color:#fff;text-transform:capitalize;
+text-decoration:underline;
+text-decoration-style: solid;
+text-decoration-color:greenyellow}
+
+#name{text-decoration:underline;
+padding:8px;
+border:1px solid red;}
+/*text-decoration:none;}*/
+
+
+.dd{text-decoration:underline;}
+
+
+.muq{padding:7px;width:150px;}
+
+#gg li{background-color:blue;padding:1%;color:#fff}
